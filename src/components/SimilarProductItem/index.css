@@ -1,0 +1,31 @@
+.similar-container {
+  padding: 10px;
+  list-style-type: none;
+  font-size: 12px;
+}
+
+.similar-image {
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.price-rating {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 10px;
+}
+
+.star-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3b82f6;
+  padding-left: 3px;
+  color: #fff;
+  border-radius: 4px;
+  height: 30px;
+  width: 60px;
+}
